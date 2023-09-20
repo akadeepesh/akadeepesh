@@ -1,12 +1,9 @@
-[![MasterHead](https://drive.google.com/file/d/18e2W0UXoKC7rbcUCGGIB_5gC3fDTmofJ/view?usp=drive_link)
-
+![github-header-image](https://github.com/akadeepesh/akadeepesh/assets/100466756/942d5dbf-770c-4c6e-b57c-a8a6f970bca9)
 <h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
 <h3 align="center">A passionate Python Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20views&color=0e75b6&style=flat" alt="akadeepesh" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akadeepesh" alt="akadeepesh" /></a> </p>
 
 - 🔭 I’m currently focusing on **Hackathons**
 
