@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Next.js, AWS, DSA(C++)**
 
-- 👯 I’m looking to collaborate on [Django Virtual Assistand](https://github.com/akadeepesh/VirtualAssistant)
+- 👯 I’m looking to collaborate on [Django Virtual Assistant](https://github.com/akadeepesh/VirtualAssistant)
 
 - 🤝 I’m looking for help with **Machine Learning**
 
