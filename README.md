@@ -16,7 +16,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deepesh-portfolio.vercel.app/](https://deepesh-portfolio.vercel.app/)
 
-- 💬 Ask me about **react, django, automation, web scrapping**
+- 💬 Ask me about **Python, WebDev, Automation**
 
 - 📫 How to reach me **deepesh.kumar.ug21@nsut.ac.in**
 <br><br><br><br><br>
