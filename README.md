@@ -1,5 +1,4 @@
 [![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
-![github-header-image](https://github.com/akadeepesh/akadeepesh/assets/100466756/af253eda-25d9-4f09-9a40-32034838ffe4)
 
 <h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3><br>
