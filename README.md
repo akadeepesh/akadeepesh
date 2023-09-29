@@ -10,8 +10,6 @@
 
 - 🌱 I’m currently learning **Next.js, AWS, DSA(C++)**
 
-- 👯 I’m looking to collaborate on [Django Virtual Assistant](https://github.com/akadeepesh/VirtualAssistant)
-
 - 🤝 I’m looking for help with **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://deepesh-portfolio.vercel.app/](https://deepesh-portfolio.vercel.app/)
