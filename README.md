@@ -1,6 +1,6 @@
 [![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
 
-‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ [‎![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+into+Full+Stack+Web+Development;Interested+in+Machine+Learning;Python+is+%E2%9D%A4%EF%B8%8F+%5E_%5E)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Into+Full+Stack+Web+Development;Interested+In+Machine+Learning+;Python+Is+%E2%9D%A4%EF%B8%8F+%5E_%5E)](https://git.io/typing-svg)
 
 <h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
 <h3 align="center">A passionate Developer from India</h3><br>
