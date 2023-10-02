@@ -1,7 +1,9 @@
 [![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
 
+‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ [‎![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=I'm+into+Full+Stack+Web+Development;Interested+in+Machine+Learning;Python+is+%E2%9D%A4%EF%B8%8F+%5E_%5E)](https://git.io/typing-svg)
+
 <h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3><br>
+<h3 align="center">A passionate Developer from India</h3><br>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20views&color=0e75b6&style=flat" alt="akadeepesh" /> </p>
