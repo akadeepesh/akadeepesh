@@ -22,8 +22,8 @@
 <br><br><br><br><br>
 <h3 align="left">Connect with me:</h3><br>
 <p align="center">
-<a href="https://linkedin.com/in/deepesh-kumar-b884b022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh-kumar-b884b022b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/deepesh_kumar_u1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepesh_kumar_u1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepesh-kumar-b884b022b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepesh-kumar-b884b022b" height="50" width="60" /></a>
+<a href="https://www.hackerrank.com/deepesh_kumar_u1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="deepesh_kumar_u1" height="90" width="90" /></a>
 </p>
 <br><br><br>
 <h3>Streak Stats:</h3>
