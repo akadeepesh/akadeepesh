@@ -14,11 +14,11 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 All of my projects are available at [https://deepesh-portfolio.vercel.app/](https://deepesh-portfolio.vercel.app/)
+- 👨‍💻 You can checkout my portfolio here - [https://deepesh-portfolio.vercel.app/](https://deepesh-portfolio.vercel.app/)
 
 - 💬 Ask me about **Python, WebDev, Automation**
 
-- 📫 How to reach me **deepesh.kumar.ug21@nsut.ac.in**
+- 📫 Mail me on **deepesh.kumar.ug21@nsut.ac.in**
 <br><br><br><br><br>
 <h3 align="left">Connect with me:</h3><br>
 <p align="center">
