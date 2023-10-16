@@ -181,7 +181,9 @@
 <summary>More Info...</summary>
 <h2>My Github Stats</h2>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akadeepesh&show_icons=true&locale=en&theme=tokyonight" alt="akadeepesh" /></p>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=akadeepesh&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akadeepesh" /></p>
-
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=github_dark)
+<div flex flex-row>
+&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=akadeepesh&show_icons=true&locale=en&theme=tokyonight" alt="akadeepesh" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=akadeepesh&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="akadeepesh" />
+</div>
 </details>
