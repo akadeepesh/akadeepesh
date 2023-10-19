@@ -18,7 +18,6 @@
 
 - 💬 Ask me about **Python, WebDev, Automation**
 
-- 📫 Mail me on **deepesh.kumar.ug21@nsut.ac.in**
 <br><br><br><br><br>
 <h3 align="left">Connect with me:</h3><br>
 <p align="center">
