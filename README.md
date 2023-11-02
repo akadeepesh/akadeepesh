@@ -14,7 +14,7 @@
 
 - 🤝 I’m looking for help with **Machine Learning**
 
-- 👨‍💻 You can checkout my portfolio here - [https://deepesh-portfolio.vercel.app/](https://deepesh-portfolio.vercel.app/){:target="_blank"}
+- 👨‍💻 You can checkout my portfolio here - <a href="https://deepesh-portfolio.vercel.app/" target="_blank">https://deepesh-portfolio.vercel.app/</a>
 
 - 💬 Ask me about **Python, WebDev, Automation**
 
