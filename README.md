@@ -66,9 +66,9 @@
 <summary>More Info...</summary>
 <h2>My Github Stats</h2>
 
-![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akadeepesh&show_icons=true&theme=tokyonight)
+![Deepesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=akadeepesh&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight)](https://github.com/akadeepesh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akadeepesh/github-readme-stats)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight)
 </details>
