@@ -8,13 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p>
 
-- 🔭 I’m currently focusing on **Hackathons**
+- 🔭 I’m currently focusing on **Internships**
 
-- 🌱 I’m currently learning **Next.js, AWS, DSA(C++)**
-
-- 🤝 I’m looking for help with **Machine Learning**
-
-- 👨‍💻 You can checkout my portfolio here - <a href="https://deepesh-portfolio.vercel.app/">DeCoder</a>
+- 👨‍💻 Please visit my - <a href="https://deepesh-portfolio.vercel.app/">Portfolio</a> and my <a href="https://de-coder-akadeepesh.vercel.app/">Online Resume</a>
 
 - 💬 Ask me about **Python, WebDev, Automation**
 
