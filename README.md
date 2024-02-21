@@ -66,7 +66,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/akadeepesh/github-readme-stats)
 
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true)](https://github.com/akadeepesh/github-readme-stats)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/akadeepesh/github-readme-stats)
 
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight)
 </details>
