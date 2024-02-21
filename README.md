@@ -62,10 +62,10 @@
 <summary>More Info...</summary>
 <h2>My Github Stats</h2>
 <p  align="left"> 
-<a href="https://github.com/akadeepesh">
+<div>
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt=""/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
-</a>
+</div>
 </p>
 
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/akadeepesh/github-readme-stats)
