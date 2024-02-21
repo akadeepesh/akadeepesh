@@ -67,8 +67,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt=""/>
 </div>
 </p>
-
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact)](https://github.com/akadeepesh/github-readme-stats)
-
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight)
+<img width="790em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact" alt=""/>
+<img width="790em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt=""/>
 </details>
