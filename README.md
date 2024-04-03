@@ -21,7 +21,7 @@
   <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepesh.kumar.ug21@nsut.ac.in]" target="blank">
   <img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
   </a>
-  <a href="https://linkedin.com/in/deepesh-kumar-b884b022b" target="blank">
+  <a href="https://linkedin.com/in/akadeepesh" target="blank">
   <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
 </a>
 </div>
