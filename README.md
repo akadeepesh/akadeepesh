@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p>
 
-- 🔭 I’m currently focusing on **Internships**
+- 🔭 I’m currently focusing on **<textarea id="akadeepesh_readme"/>**
 
 - 👨‍💻 Please visit my - <a href="https://deepesh-portfolio.vercel.app/">Portfolio</a> and my <a href="https://de-coder-akadeepesh.vercel.app/">Online Resume</a>
 
