@@ -2,9 +2,9 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Into+Full+Stack+Web+Development;Interested+In+Machine+Learning+;Python+Is+%E2%9D%A4%EF%B8%8F+%5E_%5E)
 
-<h1 align="center">Hi 👋, I'm Deepesh Kumar</h1>
+<h1 align="center">Hi there, I'm Deepesh</h1>
 <h3 align="center">A passionate Developer from India</h3><br>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p>
 
