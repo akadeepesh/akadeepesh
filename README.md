@@ -2,27 +2,19 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Into+Full+Stack+Web+Development;Interested+In+Machine+Learning+;Python+Is+%E2%9D%A4%EF%B8%8F+%5E_%5E)
 
-<h1 align="center">Hi there, I'm Deepesh</h1>
-<h3 align="center">A passionate Developer from India</h3><br>
-<img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a">
+<h1 align="center">Deepesh Kumar</h1>
+<h3 align="center">Full Stack Web Developer | Python Developer</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p> -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p>
-
-- 🔭 I’m currently focusing on **<textarea id="akadeepesh_readme"/>**
-
-- 👨‍💻 Please visit my - <a href="https://deepesh-portfolio.vercel.app/">Portfolio</a> and my <a href="https://de-coder-akadeepesh.vercel.app/">Online Resume</a>
-
-- 💬 Ask me about **Python, WebDev, Automation**
-
-<br><br><br><br><br>
-<h3 align="left">Connect with me:</h3><br>
+<br>
+<h3 align="left">Professional Network:</h3>
 <div>
-<span align="right">
-  <a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepesh.kumar.ug21@nsut.ac.in]" target="blank">
-  <img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
-  </a>
-  <a href="https://linkedin.com/in/akadeepesh" target="blank">
-  <img  width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepesh.kumar.ug21@nsut.ac.in]" target="blank">
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
+</a>
+<a href="https://linkedin.com/in/akadeepesh" target="blank">
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
 </a>
 </div>
 
