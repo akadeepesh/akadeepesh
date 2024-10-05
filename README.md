@@ -10,7 +10,7 @@
 <br>
 <h3 align="left">Professional Network:</h3>
 <div>
-<a href="https://mail.google.com/mail/?view=cm&source=mailto&to=[deepesh.kumar.ug21@nsut.ac.in]" target="blank">
+<a href="mailto:akadeepesh1710@gmail.com" target="blank">
 <img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
 </a>
 <a href="https://linkedin.com/in/akadeepesh" target="blank">
