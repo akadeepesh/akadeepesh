@@ -58,12 +58,12 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&langs_count=8" alt="Wakatime Stats"/>
-    <img height="150em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&langs_count=8" alt="Wakatime Stats"/>
+    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/>
   </div>
 </div>
 </details>
