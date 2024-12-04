@@ -62,8 +62,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
   </div>
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact&hide_title=true&langs_count=8" alt="Wakatime Stats"/>
-    <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/>
+    <img height="264em" src="https://github-readme-stats.vercel.app/api/wakatime?username=DeCoder&theme=tokyonight&hide_border=true&layout=compact&langs_count=6" alt="Wakatime Stats"/>
+    <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/>
   </div>
 </div>
 </details>
