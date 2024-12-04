@@ -21,7 +21,7 @@
 <br><br><br>
 <h3>Streak Stats:</h3>
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=tokyonight&hide_border=true" alt="Deepesh"/></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=tokyonight" alt="Deepesh"/></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
