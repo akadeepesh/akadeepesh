@@ -53,7 +53,7 @@
 
 
 <details>
-<summary>More Info...</summary>
+<summary>Stats</summary>
 <h2> My GitHub Stats </h2>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
