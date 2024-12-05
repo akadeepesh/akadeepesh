@@ -23,6 +23,7 @@
 <h3>Streak Stats:</h3>
 
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=tokyonight" alt="Deepesh"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -48,13 +49,10 @@
 </div>
 
 
-
+<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <!---------------------------Table Ends from here --------------------------->
 
-
-<details>
-<summary>Stats</summary>
-<h2> My GitHub Stats </h2>
+<h3> My GitHub Stats </h3>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
@@ -63,4 +61,3 @@
   </div>
 <!--     <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/> -->
 </div>
-</details>
