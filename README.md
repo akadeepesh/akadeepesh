@@ -22,7 +22,7 @@
 <br><br><br>
 <h3>Streak Stats:</h3>
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Deepesh"/></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Again streak server down :)"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <h3 align="left">Languages and Tools:</h3>
