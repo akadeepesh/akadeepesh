@@ -22,7 +22,7 @@
 <br><br><br>
 <h3>Streak Stats:</h3>
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=tokyonight" alt="Deepesh"/></p>
+<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Deepesh"/></p>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,8 +56,8 @@
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&hide_border=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=akadeepesh&show_icons=true&hide_border=true&theme=calm&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
   </div>
 <!--     <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/> -->
 </div>
