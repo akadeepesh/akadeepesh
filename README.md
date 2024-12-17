@@ -12,10 +12,16 @@
 <h3 align="left">Professional Network:</h3>
 <div>
 <a href="mailto:akadeepesh1710@gmail.com" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="deepeshmhatredm" />
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mymail" />
 </a>
 <a href="https://linkedin.com/in/akadeepesh" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="deepeshmhatredm" />
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mylinkedIn" />
+</a>
+<a href="https://discordapp.com/users/850672445803593729" target="blank">
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mydiscord" />
+</a>
+<a href="https://t.me/akadeepesh" target="blank">
+<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="mytelegram" />
 </a>
 </div>
 
