@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4000&pause=500&color=EBFF13&width=435&lines=Hi%2C+Welcome+to+my+profile+!!;I'm+software+engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Love+to+build+web+apps)](https://git.io/typing-svg)
 
 <h1 align="center">Deepesh Kumar</h1>
-<h3 align="center">Full Stack Web Developer & Python Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 <!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p> -->
