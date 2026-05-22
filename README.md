@@ -1,35 +1,22 @@
 [![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&duration=4000&pause=500&color=EBFF13&width=435&lines=Hi%2C+Welcome+to+my+profile+!!;I'm+software+engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;Love+to+build+web+apps)](https://git.io/typing-svg)
+<p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hi+it's+Deepesh!;+I'm+a+Full+Stack+Web+Developer.;I'm+an+Automation+Engineer.;And+I+love+to+build+ideas." />
+</p>
 
-<h1 align="center">Deepesh Kumar</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
-<!-- <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/9a906626-09f2-4e75-80ec-d6e391d4846a"> -->
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=akadeepesh&label=Profile%20Views&color=lightgrey&style=for-the-badge" alt="akadeepesh" /> </p> -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <br>
-<h3 align="left">Professional Network:</h3>
-<div>
-<a href="mailto:akadeepesh1710@gmail.com" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" alt="mymail" />
-</a>
-<a href="https://linkedin.com/in/akadeepesh" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="mylinkedIn" />
-</a>
-<a href="https://discordapp.com/users/850672445803593729" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="mydiscord" />
-</a>
-<a href="https://t.me/akadeepesh" target="blank">
-<img width="35" height="35" align="left" src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="mytelegram" />
-</a>
-</div>
+
+<h3>Professional Network:</h3>
+
+<a href="mailto:akadeepesh1710@gmail.com" target="_blank"><img src="./assets/gmail.svg" /></a><a href="https://linkedin.com/in/akadeepesh" target="_blank"><img src="./assets/linkedin.svg" /></a><a href="https://discordapp.com/users/850672445803593729" target="_blank"><img src="./assets/discord.svg" /></a><a href="https://t.me/akadeepesh" target="_blank"><img src="./assets/telegram.svg" /></a>
 
 <br><br><br>
 <h3>Streak Stats:</h3>
 
 <p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Again streak server down :)"/></p>
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -54,7 +41,7 @@
 
 </div>
 
-<p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 <!-- ---------------------------Table Ends from here --------------------------- -->
 
 
