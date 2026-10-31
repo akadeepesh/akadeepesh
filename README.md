@@ -1,11 +1,13 @@
+[![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
+
 <p align="center">
-    <a href="https://akadeepesh.com"><img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=F5B400&lines=Hi,+it's+Deepesh!;I'm+an+Automation+Developer.;I+build+machines+that+do+the+boring+work.;Mechanical+engineer+turned+coder." alt="Hi, it's Deepesh! I'm an Automation Developer. I build machines that do the boring work." /></a>
+    <a href="https://akadeepesh.com"><img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=F5B400&lines=Hi,+it's+Deepesh!;I'm+an+Automation+Developer.;I+build+machines+that+do+the+boring+work." alt="Hi, it's Deepesh! I'm an Automation Developer. I build machines that do the boring work." /></a>
 </p>
 
 <p align="center">
-  <b>Automation Developer · New Delhi</b> &nbsp;|&nbsp; B.Tech Mechanical, NSUT 2025
+  <b>Automation Developer · New Delhi</b>
   <br>
-  Trained as a mechanical engineer. Now I build the machines out of code.
+  I build tools that automate the boring work, from AI-ready codebases to a self-cleaning inbox.
   <br><br>
   <a href="https://akadeepesh.com"><b>🏭 Walk the production line at akadeepesh.com →</b></a>
 </p>
@@ -63,13 +65,7 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=akadeepesh&custom_title=akadeepesh%20stats&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akadeepesh&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=akadeepesh&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
   </div>
 <!--     <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/> -->
 </div>
-
-<br>
-
-<p align="center">
-  <a href="https://holopin.io/@akadeepesh"><img src="https://holopin.me/akadeepesh" alt="@akadeepesh's Holopin badges" /></a>
-</p>
