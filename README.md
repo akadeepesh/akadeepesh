@@ -1,7 +1,13 @@
-[![An image of @akadeepesh's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/akadeepesh)](https://holopin.io/@akadeepesh)
+<p align="center">
+    <a href="https://akadeepesh.com"><img src="https://readme-typing-svg.demolab.com/?font=Pacifico&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=F5B400&lines=Hi,+it's+Deepesh!;I'm+an+Automation+Developer.;I+build+machines+that+do+the+boring+work.;Mechanical+engineer+turned+coder." alt="Hi, it's Deepesh! I'm an Automation Developer. I build machines that do the boring work." /></a>
+</p>
 
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=700&height=70&duration=3000&pause=2000&color=FFFFFF&lines=Hi+it's+Deepesh!;+I'm+a+Full+Stack+Web+Developer.;I'm+an+Automation+Engineer.;And+I+love+to+build+ideas." />
+  <b>Automation Developer · New Delhi</b> &nbsp;|&nbsp; B.Tech Mechanical, NSUT 2025
+  <br>
+  Trained as a mechanical engineer. Now I build the machines out of code.
+  <br><br>
+  <a href="https://akadeepesh.com"><b>🏭 Walk the production line at akadeepesh.com →</b></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
@@ -10,19 +16,26 @@
 
 <h3>Professional Network:</h3>
 
-<a href="mailto:akadeepesh1710@gmail.com" target="_blank"><img src="./assets/gmail.svg" /></a><a href="https://linkedin.com/in/akadeepesh" target="_blank"><img src="./assets/linkedin.svg" /></a><a href="https://discordapp.com/users/850672445803593729" target="_blank"><img src="./assets/discord.svg" /></a><a href="https://t.me/akadeepesh" target="_blank"><img src="./assets/telegram.svg" /></a>
+<a href="https://akadeepesh.com" target="_blank" title="Portfolio: akadeepesh.com"><img src="./assets/portfolio.svg" alt="Portfolio" /></a><a href="mailto:akadeepesh1710@gmail.com" target="_blank" title="Email"><img src="./assets/gmail.svg" alt="Gmail" /></a><a href="https://linkedin.com/in/akadeepesh" target="_blank" title="LinkedIn"><img src="./assets/linkedin.svg" alt="LinkedIn" /></a><a href="https://discordapp.com/users/850672445803593729" target="_blank" title="Discord"><img src="./assets/discord.svg" alt="Discord" /></a><a href="https://t.me/akadeepesh" target="_blank" title="Telegram"><img src="./assets/telegram.svg" alt="Telegram" /></a>
 
-<br><br><br>
+<br><br>
+
+<h3>On the Line:</h3>
+
+| Machine | What it does | Links |
+|---------|--------------|-------|
+| **[ContextZip](https://github.com/akadeepesh/contextzip)** | Packs exactly the right parts of a codebase for any AI tool, in one command. Stack detection, git-aware selection, secrets redaction. On PyPI, npm and the VS Code Marketplace. | [Website](https://www.contextzipcli.com) · [Code](https://github.com/akadeepesh/contextzip) · [Demo ▶](https://youtu.be/9FnYfyB3qd8) |
+| **[GmailCleaner](https://github.com/akadeepesh/GmailCleaner)** | A self-hosted Gmail engine that shows you the cleanup plan, then waits for your approval. Gemini triage, unsubscribe engine, daily digest. | [Code](https://github.com/akadeepesh/GmailCleaner) |
+
+<sub>More machines (and the case file for each) on the floor at <a href="https://akadeepesh.com">akadeepesh.com</a>.</sub>
+
+<br><br>
 <h3>Streak Stats:</h3>
 
-<p align='center'><img src="https://github-readme-streak-stats.herokuapp.com/?user=akadeepesh&theme=calm" alt="Again streak server down :)"/></p>
+<p align='center'><img src="https://streak-stats.demolab.com/?user=akadeepesh&theme=calm" alt="GitHub streak stats for akadeepesh"/></p>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2"/>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-<!---This keeps the images aligned side to side-->
-[tech_tools_anchor]: #--
 
 <!-- ---------------------------Table Starts from here --------------------------- -->
 <div align="center">
@@ -50,7 +63,13 @@
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img height="180em" src="https://github-stats-extended.vercel.app/api?username=akadeepesh&custom_title=akadeepesh%20stats&show_icons=true&include_all_commits=true&theme=calm&hide_border=true" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akadeepesh&&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=akadeepesh&size_weight=0&count_weight=1&show_icons=true&locale=en&layout=compact&theme=calm&hide_border=true" alt="Top Languages"/>
   </div>
 <!--     <img height="224em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akadeepesh&theme=tokyonight" alt="Profile Summary"/> -->
 </div>
+
+<br>
+
+<p align="center">
+  <a href="https://holopin.io/@akadeepesh"><img src="https://holopin.me/akadeepesh" alt="@akadeepesh's Holopin badges" /></a>
+</p>
