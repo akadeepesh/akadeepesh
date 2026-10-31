@@ -1,0 +1,10 @@
+<svg width="175" height="48" viewBox="0 0 175 48" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI', system-ui, -apple-system, sans-serif">
+  <rect width="175" height="48" fill="none" stroke="#444" stroke-width="1"/>
+
+  <svg x="44" y="14" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="#F5B400" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+    <circle cx="12" cy="12" r="10"/>
+    <path d="M2 12h20"/>
+    <path d="M12 2a15.3 15.3 0 0 1 4 10 15.3 15.3 0 0 1-4 10 15.3 15.3 0 0 1-4-10 15.3 15.3 0 0 1 4-10z"/>
+  </svg>
+  <text x="72" y="29" font-size="13" font-weight="500" fill="#cccccc">Portfolio</text>
+</svg>
